@@ -1,7 +1,7 @@
 {
 "summary": {
 "score": 8,
-"clinicalRisk": "High"
+"clinicalRisk": "High",
     "ab": [
         {
             "label": "Respiration Rate",
