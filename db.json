@@ -38,6 +38,18 @@
             "units": "mmHg",
             "value": "160/158"
         }
+    ],
+      "de": [
+        {
+            "label": "Consciousness",
+            "name": "consciousness.value",
+            "score": {
+                "ammount": 3,
+                "description": "worse"
+            },
+            "section": "D + E",
+            "value": "pain"
+        }
     ]
 }
 }
